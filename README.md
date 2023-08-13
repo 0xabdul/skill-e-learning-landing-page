@@ -28,17 +28,17 @@
 
 ## Links &#11088;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/skill-e-learning-landing-page/">Click Here</a></li><br>
-  
-</ul><br>
+<li>Live Site URL: <a href="https://0xabdul.github.io/skill-e-learning-landing-page/">Click Here</a></li><br> 
+</ul>
 
 ## Pagespeed Insights Score: <br>
 
  <ul>
    <li>Moble & Desktop Both Earned Score in  Pagespeed Insights Is : 96.75</li>
  </ul>
-  
-  Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdul-github-io-skill-e-learning-landing-page/so5o59mrml?form_factor=desktop) to get live score 
+  <ul>
+  <li>Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdul-github-io-skill-e-learning-landing-page/so5o59mrml?form_factor=desktop) to get live score <br><br></li>
+  </ul>
 
 
 ## Acknowledgments 🚀 <br>
