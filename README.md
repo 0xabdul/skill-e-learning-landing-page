@@ -23,7 +23,6 @@
   </a> &nbsp;&nbsp;&nbsp;<br><br><br>
 </div><br><br>
 
-
 # Skill e-Learning Landing page<br>
 
 ## Links &#11088;
