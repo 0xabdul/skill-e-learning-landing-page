@@ -37,7 +37,7 @@
    <li>Moble & Desktop Both Earned Score in  Pagespeed Insights Is : 96.75</li>
  </ul>
   
-  Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdul-github-io-skill-e-learning-landing-page/so5o59mrml?form_factor=desktop) to get live score <br><br>
+  Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdul-github-io-skill-e-learning-landing-page/so5o59mrml?form_factor=desktop) to get live score ! <br><br>
 
 
 ## Acknowledgments 🚀 <br>
