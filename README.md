@@ -12,7 +12,7 @@
   <a href="https://www.frontendmentor.io/challenges?difficulties=1"  >
     <img src="https://img.shields.io/badge/Difficulty-Newbie-87CEEB?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
   </a>
-</div>
+</div>.
 <br />
 <div align="center">
     <a href="https://www.frontendmentor.io/profile/0xAbdul">
